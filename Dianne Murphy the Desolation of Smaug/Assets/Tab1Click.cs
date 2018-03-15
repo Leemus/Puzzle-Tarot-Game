@@ -4,9 +4,9 @@ using UnityEngine;
 
 public class Tab1Click : MonoBehaviour {
 
-	public Renderer tab1;
-	public Renderer tab2;
-	public Renderer tab3;
+	public Renderer tab1, tab1top;
+	public Renderer tab2,tab2top;
+	public Renderer tab3, tab3top;
 
 
 	// Use this for initialization
@@ -25,5 +25,8 @@ public class Tab1Click : MonoBehaviour {
 		tab2.enabled = false;
 		tab1.enabled = true;
 		tab3.enabled = false;
+		tab2top.enabled = false;
+		tab1top.enabled = true;
+		tab3top.enabled = false;
 	}
 }

@@ -14,14 +14,14 @@
       <file leaf-file-name="TabClick.cs" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Assets/TabClick.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="105">
-              <caret line="10" column="4" lean-forward="false" selection-start-line="10" selection-start-column="4" selection-end-line="10" selection-end-column="4" />
+            <state relative-caret-position="150">
+              <caret line="13" column="4" lean-forward="false" selection-start-line="13" selection-start-column="4" selection-end-line="13" selection-end-column="4" />
               <folding>
-                <marker date="1521127255187" expanded="false" signature="6:100" ph="..." />
-                <marker date="1521127255187" expanded="true" signature="140:430" ph="{...}" />
-                <marker date="1521127255187" expanded="true" signature="258:265" ph="{...}" />
-                <marker date="1521127255187" expanded="true" signature="320:327" ph="{...}" />
-                <marker date="1521127255187" expanded="true" signature="351:428" ph="{...}" />
+                <marker date="1521135535453" expanded="false" signature="6:100" ph="..." />
+                <marker date="1521135535453" expanded="true" signature="140:535" ph="{...}" />
+                <marker date="1521135535453" expanded="true" signature="284:290" ph="{...}" />
+                <marker date="1521135535453" expanded="true" signature="345:352" ph="{...}" />
+                <marker date="1521135535453" expanded="true" signature="376:533" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -30,36 +30,36 @@
       <file leaf-file-name="Tab3Click.cs" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Assets/Tab3Click.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="10" column="4" lean-forward="false" selection-start-line="10" selection-start-column="4" selection-end-line="10" selection-end-column="4" />
+            <state relative-caret-position="150">
+              <caret line="12" column="0" lean-forward="false" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
               <folding>
-                <marker date="1521127256413" expanded="false" signature="6:78" ph="..." />
-                <marker date="1521127256413" expanded="true" signature="119:412" ph="{...}" />
-                <marker date="1521127256413" expanded="true" signature="240:247" ph="{...}" />
-                <marker date="1521127256413" expanded="true" signature="302:309" ph="{...}" />
-                <marker date="1521127256413" expanded="true" signature="333:410" ph="{...}" />
+                <marker date="1521135535550" expanded="false" signature="6:78" ph="..." />
+                <marker date="1521135535550" expanded="true" signature="119:517" ph="{...}" />
+                <marker date="1521135535550" expanded="true" signature="266:272" ph="{...}" />
+                <marker date="1521135535550" expanded="true" signature="327:334" ph="{...}" />
+                <marker date="1521135535550" expanded="true" signature="358:515" ph="{...}" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Tab1Click.cs" pinned="false" current-in-tab="false">
+      <file leaf-file-name="Tab1Click.cs" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Assets/Tab1Click.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="10" column="0" lean-forward="false" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+            <state relative-caret-position="285">
+              <caret line="21" column="4" lean-forward="true" selection-start-line="21" selection-start-column="4" selection-end-line="21" selection-end-column="4" />
               <folding>
-                <marker date="1521127257402" expanded="false" signature="6:78" ph="..." />
-                <marker date="1521127257402" expanded="true" signature="119:412" ph="{...}" />
-                <marker date="1521127257402" expanded="true" signature="240:247" ph="{...}" />
-                <marker date="1521127257402" expanded="true" signature="302:309" ph="{...}" />
-                <marker date="1521127257402" expanded="true" signature="333:410" ph="{...}" />
+                <marker date="1521135533021" expanded="false" signature="6:78" ph="..." />
+                <marker date="1521135533021" expanded="true" signature="119:518" ph="{...}" />
+                <marker date="1521135533021" expanded="true" signature="266:273" ph="{...}" />
+                <marker date="1521135533021" expanded="true" signature="328:335" ph="{...}" />
+                <marker date="1521135533021" expanded="true" signature="359:516" ph="{...}" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="cameraScroll.cs" pinned="false" current-in-tab="true">
+      <file leaf-file-name="cameraScroll.cs" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Assets/cameraScroll.cs">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="300">
@@ -79,18 +79,18 @@
     </leaf>
   </component>
   <component name="HighlightingSettingsPerFile">
-    <setting file="file://$PROJECT_DIR$/Assets/Tab1Click.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Tab3Click.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/cameraScroll.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/TabClick.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/cameraScroll.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Tab3Click.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Tab1Click.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
+        <option value="$PROJECT_DIR$/Assets/cameraScroll.cs" />
+        <option value="$PROJECT_DIR$/Assets/TabClick.cs" />
         <option value="$PROJECT_DIR$/Assets/Tab3Click.cs" />
         <option value="$PROJECT_DIR$/Assets/Tab1Click.cs" />
-        <option value="$PROJECT_DIR$/Assets/TabClick.cs" />
-        <option value="$PROJECT_DIR$/Assets/cameraScroll.cs" />
       </list>
     </option>
   </component>
@@ -169,11 +169,12 @@
       <updated>1521124902072</updated>
       <workItem from="1521124939106" duration="1035000" />
       <workItem from="1521126396826" duration="4070000" />
+      <workItem from="1521134925766" duration="1811000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5105000" />
+    <option name="totallyTimeSpent" value="6916000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -186,6 +187,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Errors In Solution" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -223,28 +225,14 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/Assets/TabClick.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <marker date="1521127255187" expanded="false" signature="6:100" ph="..." />
-            <marker date="1521127255187" expanded="true" signature="140:430" ph="{...}" />
-            <marker date="1521127255187" expanded="true" signature="258:265" ph="{...}" />
-            <marker date="1521127255187" expanded="true" signature="320:327" ph="{...}" />
-            <marker date="1521127255187" expanded="true" signature="351:428" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/TabClick.cs">
-      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="105">
           <caret line="10" column="4" lean-forward="false" selection-start-line="10" selection-start-column="4" selection-end-line="10" selection-end-column="4" />
           <folding>
-            <marker date="1521127255187" expanded="false" signature="6:100" ph="..." />
-            <marker date="1521127255187" expanded="true" signature="140:430" ph="{...}" />
-            <marker date="1521127255187" expanded="true" signature="258:265" ph="{...}" />
-            <marker date="1521127255187" expanded="true" signature="320:327" ph="{...}" />
-            <marker date="1521127255187" expanded="true" signature="351:428" ph="{...}" />
+            <marker date="1521135535453" expanded="false" signature="6:100" ph="..." />
+            <marker date="1521135535453" expanded="true" signature="140:535" ph="{...}" />
+            <marker date="1521135535453" expanded="true" signature="284:290" ph="{...}" />
+            <marker date="1521135535453" expanded="true" signature="345:352" ph="{...}" />
+            <marker date="1521135535453" expanded="true" signature="376:533" ph="{...}" />
           </folding>
         </state>
       </provider>
@@ -254,11 +242,11 @@
         <state relative-caret-position="120">
           <caret line="10" column="4" lean-forward="false" selection-start-line="10" selection-start-column="4" selection-end-line="10" selection-end-column="4" />
           <folding>
-            <marker date="1521127256413" expanded="false" signature="6:78" ph="..." />
-            <marker date="1521127256413" expanded="true" signature="119:412" ph="{...}" />
-            <marker date="1521127256413" expanded="true" signature="240:247" ph="{...}" />
-            <marker date="1521127256413" expanded="true" signature="302:309" ph="{...}" />
-            <marker date="1521127256413" expanded="true" signature="333:410" ph="{...}" />
+            <marker date="1521135535550" expanded="false" signature="6:78" ph="..." />
+            <marker date="1521135535550" expanded="true" signature="119:517" ph="{...}" />
+            <marker date="1521135535550" expanded="true" signature="266:272" ph="{...}" />
+            <marker date="1521135535550" expanded="true" signature="327:334" ph="{...}" />
+            <marker date="1521135535550" expanded="true" signature="358:515" ph="{...}" />
           </folding>
         </state>
       </provider>
@@ -268,11 +256,11 @@
         <state relative-caret-position="120">
           <caret line="10" column="0" lean-forward="false" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
           <folding>
-            <marker date="1521127257402" expanded="false" signature="6:78" ph="..." />
-            <marker date="1521127257402" expanded="true" signature="119:412" ph="{...}" />
-            <marker date="1521127257402" expanded="true" signature="240:247" ph="{...}" />
-            <marker date="1521127257402" expanded="true" signature="302:309" ph="{...}" />
-            <marker date="1521127257402" expanded="true" signature="333:410" ph="{...}" />
+            <marker date="1521135533021" expanded="false" signature="6:78" ph="..." />
+            <marker date="1521135533021" expanded="true" signature="119:518" ph="{...}" />
+            <marker date="1521135533021" expanded="true" signature="266:273" ph="{...}" />
+            <marker date="1521135533021" expanded="true" signature="328:335" ph="{...}" />
+            <marker date="1521135533021" expanded="true" signature="359:516" ph="{...}" />
           </folding>
         </state>
       </provider>
@@ -288,6 +276,77 @@
             <marker date="1521129484891" expanded="true" signature="285:549" ph="{...}" />
             <marker date="1521129484891" expanded="true" signature="345:422" ph="{...}" />
             <marker date="1521129484891" expanded="true" signature="488:546" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/TabClick.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1521135535453" expanded="false" signature="6:100" ph="..." />
+            <marker date="1521135535453" expanded="true" signature="140:535" ph="{...}" />
+            <marker date="1521135535453" expanded="true" signature="284:290" ph="{...}" />
+            <marker date="1521135535453" expanded="true" signature="345:352" ph="{...}" />
+            <marker date="1521135535453" expanded="true" signature="376:533" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/cameraScroll.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="22" column="26" lean-forward="false" selection-start-line="22" selection-start-column="26" selection-end-line="22" selection-end-column="26" />
+          <folding>
+            <marker date="1521129484891" expanded="false" signature="6:78" ph="..." />
+            <marker date="1521129484891" expanded="true" signature="122:551" ph="{...}" />
+            <marker date="1521129484891" expanded="true" signature="172:179" ph="{...}" />
+            <marker date="1521129484891" expanded="true" signature="285:549" ph="{...}" />
+            <marker date="1521129484891" expanded="true" signature="345:422" ph="{...}" />
+            <marker date="1521129484891" expanded="true" signature="488:546" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/TabClick.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="13" column="4" lean-forward="false" selection-start-line="13" selection-start-column="4" selection-end-line="13" selection-end-column="4" />
+          <folding>
+            <marker date="1521135535453" expanded="false" signature="6:100" ph="..." />
+            <marker date="1521135535453" expanded="true" signature="140:535" ph="{...}" />
+            <marker date="1521135535453" expanded="true" signature="284:290" ph="{...}" />
+            <marker date="1521135535453" expanded="true" signature="345:352" ph="{...}" />
+            <marker date="1521135535453" expanded="true" signature="376:533" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Tab3Click.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="12" column="0" lean-forward="false" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+          <folding>
+            <marker date="1521135535550" expanded="false" signature="6:78" ph="..." />
+            <marker date="1521135535550" expanded="true" signature="119:517" ph="{...}" />
+            <marker date="1521135535550" expanded="true" signature="266:272" ph="{...}" />
+            <marker date="1521135535550" expanded="true" signature="327:334" ph="{...}" />
+            <marker date="1521135535550" expanded="true" signature="358:515" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Tab1Click.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="21" column="4" lean-forward="true" selection-start-line="21" selection-start-column="4" selection-end-line="21" selection-end-column="4" />
+          <folding>
+            <marker date="1521135533021" expanded="false" signature="6:78" ph="..." />
+            <marker date="1521135533021" expanded="true" signature="119:518" ph="{...}" />
+            <marker date="1521135533021" expanded="true" signature="266:273" ph="{...}" />
+            <marker date="1521135533021" expanded="true" signature="328:335" ph="{...}" />
+            <marker date="1521135533021" expanded="true" signature="359:516" ph="{...}" />
           </folding>
         </state>
       </provider>
