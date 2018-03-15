@@ -7,6 +7,8 @@ public class Tab3Click : MonoBehaviour {
 	public Renderer tab1, tab1top;
 	public Renderer tab2,tab2top;
 	public Renderer tab3, tab3top;
+	public Renderer twitterpage;
+	public GameObject inputfield;
 
 		// Use this for initialization
 	void Start () {
@@ -27,5 +29,7 @@ public class Tab3Click : MonoBehaviour {
 		tab2top.enabled = false;
 		tab1top.enabled = false;
 		tab3top.enabled = true;
+		twitterpage.enabled = false;
+		inputfield.SetActive(false);
 	}
 }

@@ -7,11 +7,13 @@ public class TabClick : MonoBehaviour {
 public Renderer tab1, tab1top;
 public Renderer tab2,tab2top;
 public Renderer tab3, tab3top;
+	public Renderer twitterpage;
+	public GameObject inputfield;
 
 	
 	// Use this for initialization
 	void Start () {
-	
+	inputfield.SetActive(false);
 	}
 	
 	// Update is called once per frame
@@ -28,5 +30,7 @@ public Renderer tab3, tab3top;
 		tab2top.enabled = true;
 		tab1top.enabled = false;
 		tab3top.enabled = false;
+		twitterpage.enabled = false;
+		inputfield.SetActive(true);
 	}
 }
